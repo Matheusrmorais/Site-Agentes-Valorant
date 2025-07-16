@@ -1,6 +1,6 @@
 # 🎯 Site - Agentes do Valorant
 
-Este é um projeto front-end criado para apresentar informações sobre os agentes do jogo **Valorant**, da Riot Games. O site é responsivo, visualmente inspirado na personagem **Jett** e feito com HTML e CSS puros.
+Este é um projeto front-end criado para apresentar informações sobre os agentes do jogo **Valorant**, da Riot Games.  visualmente inspirado no **valorant** e feito com HTML e CSS puros.
 
 
 ## 🕹️ Sobre o Projeto
