@@ -7,7 +7,7 @@ Este é um projeto front-end criado para apresentar informações sobre os agent
 
 O objetivo do projeto é treinar habilidades de desenvolvimento web utilizando HTML e CSS, além de aplicar conceitos de design moderno inspirado no universo de Valorant.
 
-O projeto traz uma landing page focada na personagem **Jett**, com informações estilizadas e layout adaptado para diferentes dispositivos.
+O projeto traz uma landing page focada na personagem **Jett**, com informações.
 
 ## 📌 Funcionalidades
 
